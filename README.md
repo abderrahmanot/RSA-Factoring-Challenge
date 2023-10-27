@@ -1,22 +1,24 @@
-# RSA-Factoring-Challenge
+# RSA Factoring Challenge
 
-### Problem Statement
+## Requirements
 
-Factorize as many numbers as possible into a product of two smaller numbers.
+### General
 
-### Implementation
+*You can choose the language of your choice.
 
-Implementing the Pollard Rho algorithm as seen here:
-http://mathforum.org/library/drmath/view/65801.html
+*OS needs to be Standard Ubuntu 20.04 LTS/
 
-### Constraints
+## Resources
 
-* No dependencies
-* 5s max to complete calculations
-* Required output: n=(p)(q)
+* Read or watch:
 
-### Real World Application?
+* RSA
 
-Prime Factorization (or integer factorization) is a commonly used mathematical problem often used to secure public-key encryption systems. A common practice is to use very large semi-primes (that is, the result of the multiplication of two prime numbers) as the number securing the encryption. In order to break it, they would have to find the prime factorization of the large semi-prime number – that is, two or more **prime numbers** that multiplied together result in the original number.
+* How does HTTPS provide security?
 
-Source: https://learncryptography.com/mathematics/prime-factorization
+* Prime Factorization
+
+* Why RSA?
+
+## Credits:
+* Alpha & Omega
